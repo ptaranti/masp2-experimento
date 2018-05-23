@@ -1,0 +1,11 @@
+Tarefas:
+
+1 - FEITO - Quando um comportamento inicia, suspender comportamento de controle e reiniciar após o termino.
+
+
+2 - FEITO -  verificar period - velor errado pode estar sendo usadono calculo de erro, usando valor sttandard em vez do periodo do comportamento
+
+3 -  implementar sleep simulation time
+
+4 - implementar wakeupBehhavior - 
+

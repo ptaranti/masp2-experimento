@@ -1,0 +1,73 @@
+
+Uma Fragata da clase niteroi: 
+
+Armas
+6 TP2, 1 canon45in
+
+Defesas
+Chaff
+Boroc
+
+Sensor
+Sonar s1
+Radar r1
+====================================
+
+Submarino classe IKL209
+
+Armas
+8 TP1
+
+Sensores
+Sonars2
+
+
+Situação:
+
+submarino AZUL na posição 000-000, aguardando para atacar mercantes.
+Somente deve atacar escoltas em auto defesa.
+
+Fragata VERMELHA recebeu informe com posição provável de submarino inimigo a 000-000.
+Navio deve se aproximar a 30MN da posição e iniciar busca.
+Navio inicia atopetado de logistica
+
+não há submarinos amigos ou neutros na área.
+
+==============================================
+
+
+Fragata Niteroi
+Combustivel 1000unidpassivo) - navio silencioso - 15MN; sonares ativos (3x)
+      S2 (ativo )  - submarinos - 10 MN - Navios 7 MN  
+
+consumo: 1un/h a 4nos, 2uni/h 12 nos, 5 unid/h 20nos
+
+Submarino
+Combustivel
+1000unid
+consumo 1uni/h
+
+===============================================
+
+Torpedo TP1 e TP2
+velocidade 35 nos
+alcance 10MN
+Probabilidade - TP2 - 50%
+Probabilidade TP1 - 65%
+
+====================================================
+
+Sonar s2 (passivo) - navio silencioso - 15MN; sonares ativos (3x)
+      S2 (ativo )  - submarinos - 10 MN - Navios 7 MN  
+
+====================================================
+
+Sonar s1 (passivo) - submarino silencioso - 4MN; sonares ativos (3x)
+      S1 (ativo )  - submarinos - 10 MN - Navios 7 MN  
+====================================================
+
+Radar r1 pequenos - 18MN; medios 30; grandes 50MN
+
+
+
+
