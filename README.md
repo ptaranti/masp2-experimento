@@ -2,10 +2,6 @@
 This code instantiates a controlled simulation in order to measure tardiness in muti-agent systems where agent are threads.
 
 
-
-
-# jadeQuantitative
-This code was developed to load information from csv to a gis database. 
 It was part of an experiment described in some papers. A full copy of these are avaiable in: 
 https://www.researchgate.net/project/taming-time-tardiness-in-multiagent-based-simulations
 
